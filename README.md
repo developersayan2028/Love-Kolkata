@@ -52,7 +52,7 @@ Love-Kolkata/
 Add your screenshot here:
 
 ```
-![Home Page](./assets/image/home.png)
+![Home Page](assets/image/home.png)
 ```
 
 ### 🏠 About Page
