@@ -64,7 +64,7 @@ Add your screenshot here:
 ### 🏠 Contact Page
 
 
-![Contact Page](ssets/image/contact.png)
+![Contact Page](assets/image/contact.png)
 
 
 
