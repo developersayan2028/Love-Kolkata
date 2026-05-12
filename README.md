@@ -51,21 +51,21 @@ Love-Kolkata/
 
 Add your screenshot here:
 
-```
+
 ![Home Page](assets/image/home.png)
-```
+
 
 ### 🏠 About Page
 
-```
-![About Page](./assets/image/about.png)
-```
+
+![About Page](assets/image/about.png)
+
 
 ### 🏠 Contact Page
 
-```
-![Contact Page](./assets/image/contact.png)
-```
+
+![Contact Page](ssets/image/contact.png)
+
 
 
 
